@@ -25,12 +25,11 @@ const handleWin = (letter) => {
 }
 ```
 
-```html
-<html>
-
-<head><title> My first repo</head>
+```<html>
 ```
-
+<head> <title> "Tic Tac Toe" </title> </head>
+          <h1> Tic-Tac-Toe </h1>
+         
 1. Go to github and clone the project using the link below.
 ``` https://github.com/NykywanP/tic-tac-toe```
 2. In your computers Terminal type git add .
@@ -43,3 +42,4 @@ const handleWin = (letter) => {
 <h2> 
 8. Be creative and have fun!
 </h2>
+</html>
